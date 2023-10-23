@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿//C# Dersleri 15-20
 var number = 11;
 
 if (number == 10)

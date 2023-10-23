@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{B03F892E-FECE-4167-86EC-F32DA412C9A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{B03F892E-FECE-4167-86EC-F32DA412C9A4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#_Dersleri_1-14", "C#_Dersleri_1-14", "{3D7EE6CA-BE31-4314-94F9-6461E8616877}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#_Dersleri_15-20", "C#_Dersleri_15-20", "{F0D728EA-8C09-4584-A292-BB668BF4C9FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{91CD8B8D-3011-4037-83DF-66431A6F9574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "Conditionals\Conditionals.csproj", "{91CD8B8D-3011-4037-83DF-66431A6F9574}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#_Dersleri_16-27", "C#_Dersleri_16-27", "{5D2A92E4-964D-4AC2-A184-BFCF7E62BA8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{B2F80B56-D68F-4037-A230-20FEA057BA09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 		{91CD8B8D-3011-4037-83DF-66431A6F9574}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91CD8B8D-3011-4037-83DF-66431A6F9574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91CD8B8D-3011-4037-83DF-66431A6F9574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F80B56-D68F-4037-A230-20FEA057BA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F80B56-D68F-4037-A230-20FEA057BA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F80B56-D68F-4037-A230-20FEA057BA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F80B56-D68F-4037-A230-20FEA057BA09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B03F892E-FECE-4167-86EC-F32DA412C9A4} = {3D7EE6CA-BE31-4314-94F9-6461E8616877}
 		{91CD8B8D-3011-4037-83DF-66431A6F9574} = {F0D728EA-8C09-4584-A292-BB668BF4C9FB}
+		{B2F80B56-D68F-4037-A230-20FEA057BA09} = {5D2A92E4-964D-4AC2-A184-BFCF7E62BA8A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A70D9EC6-9A4F-4653-9015-99268800374D}

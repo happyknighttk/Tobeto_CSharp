@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿//C# Dersleri 1-14
 //Value Types
 
 char character = 'A';
